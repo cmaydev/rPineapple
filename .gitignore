@@ -1,0 +1,9 @@
+# Python & general clutter
+__pycache__/
+*.pyc
+*.log
+# Packet captures
+*.cap
+# Build artifacts
+build/
+dist/
